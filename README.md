@@ -19,7 +19,7 @@ Claude decides which tools to call based on what it observes. A clean invoice fl
 **Requirements:** Python 3.10+
 
 ```bash
-pip install anthropic pypdf reportlab
+pip install -r requirements.txt
 ```
 
 Set your Anthropic API key as an environment variable:
